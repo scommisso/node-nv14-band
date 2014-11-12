@@ -1,0 +1,29 @@
+{
+  "name": "nv14-band",
+  "version": "0.0.1",
+  "description": "Band for Nodevember 2014 Demo #1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scommisso/node-nv14-band.git"
+  },
+  "keywords": [
+    "nodevember",
+    "link",
+    "dedupe"
+  ],
+  "author": "Stephen Commisso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scommisso/node-nv14-band/issues"
+  },
+  "homepage": "https://github.com/scommisso/node-nv14-band",
+  "dependencies": {
+    "nv14-click-track": "~0.0.1",
+    "nv14-drums": "~0.0.1",
+    "nv14-piano": "~0.0.1"
+  }
+}
