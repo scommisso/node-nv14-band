@@ -1,6 +1,6 @@
 {
   "name": "nv14-band",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Band for Nodevember 2014 Demo #1",
   "main": "index.js",
   "scripts": {
